@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafał Białowski</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
+<br/>
 
 - 🔭 I’m currently trying to **find first job**
-
 - 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 My portfolio is available at [https://musikhood.github.io/portfolio-rb/#/](https://musikhood.github.io/portfolio-rb/#/)
-
 - 📫 How to reach me **rafal.bialowski2@gmail.com**
-
 - ⚡ Fun fact **I love to play games**
 
 <h3 align="left">Something about me:</h3>
@@ -37,7 +34,7 @@ develop further and gain new experience.
  <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="40" height="40"/>
       
 </p>
-
+<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musikhood&show_icons=true&locale=en&layout=compact&theme=dark" alt="musikhood" /></p>
 
