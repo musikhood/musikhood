@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently trying to **find first job**
 - 🌱 I’m currently learning **Typescript**
-- 👨‍💻 My portfolio is available at [https://musikhood.github.io/portfolio-rb/#/](https://musikhood.github.io/portfolio-rb/#/)
+- 👨‍💻 My portfolio is available at [https://musikhood.github.io/portfolio-rb/#/](https://musikhood.github.io/portfolio-rb/)
 - 📫 How to reach me **rafal.bialowski2@gmail.com**
 - ⚡ Fun fact **I love to play games**
 
