@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Typescript**
 - 👨‍💻 My portfolio is available at [https://musikhood.github.io/portfolio-rb/#/](https://musikhood.github.io/portfolio-rb/)
 - 📫 How to reach me **rafal.bialowski2@gmail.com**
-- ⚡ Fun fact **I love to play games**
+- ⚡ Fun fact **I love cats and my hobby is playing games**
 
 <h3 align="left">Something about me:</h3>
 I graduated from the school with title of IT technician. <br/>
