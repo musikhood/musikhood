@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rafał Białowski</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<img src="./kotyy.png" alt="koty" align="center"/>
+
+<h1 align="left">Hi 👋, I'm Rafał Białowski</h1>
+<h3 align="left">A passionate frontend developer from Poland</h3>
+
 <br/>
 
 - 🔭 I’m currently trying to **find first job**
@@ -36,7 +39,7 @@ develop further and gain new experience.
 </p>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musikhood&show_icons=true&locale=en&layout=compact&theme=dark" alt="musikhood" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musikhood&theme=dark" alt="musikhood" /></p>
-
+<div>
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=musikhood&show_icons=true&locale=en&layout=compact&theme=dark" alt="musikhood" />
+<img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=musikhood&theme=dark" alt="musikhood" />
+</div>
