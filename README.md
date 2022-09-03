@@ -9,12 +9,12 @@
 - ⚡ Fun fact **I love to play games**
 
 <h3 align="left">Something about me:</h3>
-I graduated from the school with title of IT technician.
-I’m going to start my studies in computer science.
-Programming is my passion and it really brings me joy.
-I’m interested in creating responsive websites and making clean and 
-reusable code. I’m willing to learn new technologies or frameworks.
-I’m looking for my first job as Frontend Developer to be able to 
+I graduated from the school with title of IT technician. <br/>
+I’m going to start my studies in computer science. <br/>
+Programming is my passion and it really brings me joy. <br/>
+I’m interested in creating responsive websites and making clean and <br/>
+reusable code. I’m willing to learn new technologies or frameworks. <br/>
+I’m looking for my first job as Frontend Developer to be able to <br/>
 develop further and gain new experience.
 
 <h3 align="left">Languages and Tools:</h3>
