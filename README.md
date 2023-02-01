@@ -37,9 +37,3 @@ develop further and gain new experience.
  <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="40" height="40"/>
       
 </p>
-<br/>
-
-<div>
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=musikhood&show_icons=true&locale=en&layout=compact&theme=dark" alt="musikhood" />
-<img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=musikhood&theme=dark" alt="musikhood" />
-</div>
