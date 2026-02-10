@@ -1,13 +1,12 @@
 <img src="./kotyy.png" alt="koty" align="center"/>
 
-<h1 align="left">Hi 👋, I'm Rafał Białowski</h1>
+<h1 align="left">Hi 👋, I'm Rafał</h1>
 <h3 align="left">A passionate fullstack developer from Poland</h3>
 
 <br/>
 
 - 🌱 I’m currently learning **C#** and mastering **Symfony**
 - 👨‍💻 My portfolio is available at [https://musikhood.github.io/portfolio-rb/#/](https://musikhood.github.io/portfolio-rb/)
-- 📫 How to reach me **rafal.bialowski2@gmail.com**
 - ⚡ Fun fact **I love cats and my hobby is playing games**
 
 <h3 align="left">Something about me:</h3>
